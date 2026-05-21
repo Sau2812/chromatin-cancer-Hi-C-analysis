@@ -1,2 +1,2 @@
-# chromatin-cancer-Hi-C-analysis
-This project analyzes TAD boundary disruptions in solid tumors  using publicly available Hi-C data.
+# Genome analysis
+This project analyzes genomes of cancer cells in comparision with normal cells
